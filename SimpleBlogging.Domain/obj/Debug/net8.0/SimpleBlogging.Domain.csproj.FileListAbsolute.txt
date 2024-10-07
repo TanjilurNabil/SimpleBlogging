@@ -1,0 +1,13 @@
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\bin\Debug\net8.0\SimpleBlogging.Domain.deps.json
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\bin\Debug\net8.0\SimpleBlogging.Domain.runtimeconfig.json
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\bin\Debug\net8.0\SimpleBlogging.Domain.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\bin\Debug\net8.0\SimpleBlogging.Domain.pdb
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.AssemblyInfoInputs.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.AssemblyInfo.cs
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\refint\SimpleBlogging.Domain.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.pdb
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\SimpleBlogging.Domain.genruntimeconfig.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Domain\obj\Debug\net8.0\ref\SimpleBlogging.Domain.dll

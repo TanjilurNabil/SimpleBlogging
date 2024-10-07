@@ -1,0 +1,15 @@
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\bin\Debug\net8.0\SimpleBlogging.Application.deps.json
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\bin\Debug\net8.0\SimpleBlogging.Application.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\bin\Debug\net8.0\SimpleBlogging.Application.pdb
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\bin\Debug\net8.0\SimpleBlogging.Domain.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\bin\Debug\net8.0\SimpleBlogging.Domain.pdb
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.csproj.AssemblyReference.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.AssemblyInfoInputs.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.AssemblyInfo.cs
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.csproj.CoreCompileInputs.cache
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBl.D6F68EEF.Up2Date
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\refint\SimpleBlogging.Application.dll
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\SimpleBlogging.Application.pdb
+C:\Development\Blazor\SimpleBlogging\SimpleBlogging.Application\obj\Debug\net8.0\ref\SimpleBlogging.Application.dll

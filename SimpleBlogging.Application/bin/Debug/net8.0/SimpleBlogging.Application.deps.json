@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleBlogging.Application/1.0.0": {
+        "dependencies": {
+          "SimpleBlogging.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SimpleBlogging.Application.dll": {}
+        }
+      },
+      "SimpleBlogging.Domain/1.0.0": {
+        "runtime": {
+          "SimpleBlogging.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleBlogging.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleBlogging.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

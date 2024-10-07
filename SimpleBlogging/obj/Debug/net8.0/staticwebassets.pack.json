@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBlogging.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleBlogging.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Development\\Blazor\\SimpleBlogging\\SimpleBlogging\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleBlogging.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleBlogging.props",
+      "PackagePath": "build\\SimpleBlogging.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleBlogging.props",
+      "PackagePath": "buildMultiTargeting\\SimpleBlogging.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleBlogging.props",
+      "PackagePath": "buildTransitive\\SimpleBlogging.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
